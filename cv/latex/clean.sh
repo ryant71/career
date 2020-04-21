@@ -1,2 +1,2 @@
 #!/bin/sh
-rm *.aux *.dvi *.log *.out
+rm -vf *.aux *.dvi *.log *.out
