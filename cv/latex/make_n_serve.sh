@@ -1,3 +1,3 @@
 #!/bin/bash
 pdflatex cv.tex
-python -m http.server --directory . 8080
+python3 -m http.server --directory . 8080
